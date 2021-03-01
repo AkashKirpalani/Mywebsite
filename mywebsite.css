@@ -1,13 +1,11 @@
 body {
-  background-color: green ;
+  background-color: powderblue;
 }
 
 h1 {
   color: red;
-  text-align: center;
 }
 
 p {
-  font-family: Times;
-  font-size: 100px;
+  color: red;
 }
