@@ -1,11 +1,14 @@
 body {
   background-color: #006400;
+
 }
 
 h1 {
   color: #000000;
+  align-content: center;
 }
 
 p {
   color: #000000;
+  align-content: center;
 }
